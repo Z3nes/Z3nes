@@ -19,13 +19,6 @@ I am a passionate **Computer Engineering Student & Front-End Developer** based i
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Z3nes&show_icons=true&theme=radical&hide_border=true" alt="Zekeriye Enes's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Z3nes&theme=radical&hide_border=true" alt="Zekeriye Enes's GitHub Streak" height="150" />
-</p>
-
 ### 🌐 Connect with Me
 
 <a href="mailto:enesakcimen74@gmail.com">
