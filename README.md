@@ -7,7 +7,7 @@ I am a passionate **Computer Engineering Student & Front-End Developer** based i
 - 🔭 I’m currently working on **Freelance Web Development & Academic TÜBİTAK Projects**
 - 🌱 I’m currently learning/improving my skills in **Modern JavaScript, React & Core C/C++**
 - 💬 Ask me about **HTML, CSS, Bootstrap, C, and UI/UX Design**
-- 📫 How to reach me: **enesakcimen74 [at] gmail [dot] com**
+- 📫 How to reach me: **enesakcimen [dot] dev [at] gmail [dot] com**
 
 ### 🛠️ Tech Stack & Tools
 
@@ -21,6 +21,6 @@ I am a passionate **Computer Engineering Student & Front-End Developer** based i
 
 ### 🌐 Connect with Me
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=enesakcimen74@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=enesakcimen.dev@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
