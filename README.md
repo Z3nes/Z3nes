@@ -1,26 +1,52 @@
-# Hi there, I'm Zekeriye Enes Akçimen 👋
+# Zekeriye Enes Akçimen
 
-I am a passionate **Computer Engineering Student & Front-End Developer** based in Hatay, Turkey. I specialize in building clean, responsive, and user-friendly web applications, alongside exploring deep algorithms and AI-friendly structures. 
+**Computer Engineering Student | Software Development | Game Development**
 
-### 👨‍💻 About Me
+I am a Computer Engineering student focused on building reliable software systems, interactive applications, and games.
 
-- 🔭 I’m currently working on **Freelance Web Development & Academic TÜBİTAK Projects**
-- 🌱 I’m currently learning/improving my skills in **Modern JavaScript, React & Core C/C++**
-- 💬 Ask me about **HTML, CSS, Bootstrap, C, and UI/UX Design**
-- 📫 How to reach me: **enesakcimen [dot] dev [at] gmail [dot] com**
+My work spans full-stack web development, backend architecture, and game programming. I am particularly interested in turning technical ideas into functional products, with an emphasis on maintainability, usability, and software quality.
 
-### 🛠️ Tech Stack & Tools
+## Selected Projects
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### Vocabulary Learning Platform
 
-### 🌐 Connect with Me
+A full-stack vocabulary learning application developed as a collaborative academic project.
 
-<a href="mailto:enesakcimen.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+- Multiple study methods, including flashcards, written recall, and listening exercises.
+- Interactive vocabulary games and persistent study sessions.
+- User-specific vocabulary management and learning history.
+- REST API and PostgreSQL-based data persistence.
+
+**Technologies:** React, TypeScript, Node.js, Fastify, Prisma, PostgreSQL
+
+### Rot Valley
+
+A game development project built with Unreal Engine, featuring gameplay systems implemented in C++.
+
+Current development focuses on character mechanics, combat interactions, progression systems, and automated testing.
+
+**Technologies:** Unreal Engine 5, C++, Blueprints
+
+## Technical Skills
+
+| Area | Technologies |
+|---|---|
+| Languages | C++, C, Java, TypeScript, JavaScript, SQL |
+| Frontend | React, Astro, HTML, CSS, Tailwind CSS |
+| Backend | Node.js, Fastify, Prisma |
+| Databases | PostgreSQL, SQL Server |
+| Game Development | Unreal Engine 5, Blueprints |
+| Development Tools | Git, GitHub, Docker, VS Code |
+
+## Current Focus
+
+- Improving software architecture and testing practices.
+- Developing gameplay systems with Unreal Engine and C++.
+- Building maintainable, user-focused applications.
+- Exploring AI-assisted software development workflows.
+
+## Contact
+
+**GitHub:** [Z3nes](https://github.com/Z3nes)
+
+Open to technical discussions, collaborative projects, and opportunities to learn and build.
