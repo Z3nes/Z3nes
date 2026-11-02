@@ -2,51 +2,54 @@
 
 **Computer Engineering Student | Software Development | Game Development**
 
-I am a Computer Engineering student focused on building reliable software systems, interactive applications, and games.
+I am a Computer Engineering student with an interest in software engineering, full-stack applications, and game development.
 
-My work spans full-stack web development, backend architecture, and game programming. I am particularly interested in turning technical ideas into functional products, with an emphasis on maintainability, usability, and software quality.
+I enjoy building practical projects, exploring different technologies, and improving my understanding of software architecture, algorithms, and programming.
 
 ## Selected Projects
 
 ### Vocabulary Learning Platform
 
-A full-stack vocabulary learning application developed as a collaborative academic project.
+A full-stack vocabulary learning application developed collaboratively as an academic project.
 
-- Multiple study methods, including flashcards, written recall, and listening exercises.
-- Interactive vocabulary games and persistent study sessions.
-- User-specific vocabulary management and learning history.
-- REST API and PostgreSQL-based data persistence.
+The platform provides multiple approaches to vocabulary practice, including:
 
-**Technologies:** React, TypeScript, Node.js, Fastify, Prisma, PostgreSQL
+- Flashcards, written recall, and listening exercises.
+- Interactive learning games and puzzles.
+- Personal vocabulary list management.
+- Persistent study sessions and progress tracking.
+
+The project uses React and TypeScript for its frontend, with a Node.js backend and PostgreSQL database.
 
 ### Rot Valley
 
-A game development project built with Unreal Engine, featuring gameplay systems implemented in C++.
+An Unreal Engine 5 game project currently in development.
 
-Current development focuses on character mechanics, combat interactions, progression systems, and automated testing.
+The project involves implementing gameplay systems in C++ and Blueprints, including character movement, combat mechanics, enemy interactions, and progression systems.
 
-**Technologies:** Unreal Engine 5, C++, Blueprints
+Development also involves automated testing and iterative improvements to gameplay functionality.
 
-## Technical Skills
+## Technologies and Interests
 
-| Area | Technologies |
-|---|---|
-| Languages | C++, C, Java, TypeScript, JavaScript, SQL |
-| Frontend | React, Astro, HTML, CSS, Tailwind CSS |
-| Backend | Node.js, Fastify, Prisma |
-| Databases | PostgreSQL, SQL Server |
-| Game Development | Unreal Engine 5, Blueprints |
-| Development Tools | Git, GitHub, Docker, VS Code |
+**Programming:** C++, Java, TypeScript, JavaScript, SQL
 
-## Current Focus
+**Web Development:** React, HTML, CSS, Tailwind CSS
 
-- Improving software architecture and testing practices.
-- Developing gameplay systems with Unreal Engine and C++.
-- Building maintainable, user-focused applications.
-- Exploring AI-assisted software development workflows.
+**Game Development:** Unreal Engine 5, C++, Blueprints
+
+**Areas of Interest:** Software Architecture, Algorithms, Backend Development, Game Programming
+
+## Currently Exploring
+
+- Software design and maintainable application architecture.
+- Game mechanics and gameplay programming with Unreal Engine.
+- Full-stack application development.
+- AI-assisted development workflows and software testing.
 
 ## Contact
 
-**GitHub:** [Z3nes](https://github.com/Z3nes)
+Projects & Collaborations: enesakcimen.dev@gmail.com
 
-Open to technical discussions, collaborative projects, and opportunities to learn and build.
+General Inquiries: enesakcimen74@gmail.com
+
+**GitHub:** [Z3nes](https://github.com/Z3nes)
